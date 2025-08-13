@@ -164,7 +164,7 @@ No hands-on work, just going over slides
 1. Make a new repository
 1. Create a `.github/workflows/reusable-build.yml` file and copy it over
 1. Change your `pr-verify` and `ci.yml` to point at the new repository instead of your local one
-
+ 
 ## Module 11 - Slides: Secrets
 
 No hands-on work, just going over slides
