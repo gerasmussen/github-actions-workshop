@@ -134,7 +134,7 @@ No hands-on work, just going over slides
    ```
 
 1. In your pr-verify.yml, change the YAML to this:
-
+ 
    ```yml
    name: PR Verify
 
